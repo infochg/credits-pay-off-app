@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+
+  nginx:
+    build: .
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - /home/ubuntu/certs-data/:/data/letsencrypt/
+      - /etc/letsencrypt/:/etc/letsencrypt/
+    restart: always

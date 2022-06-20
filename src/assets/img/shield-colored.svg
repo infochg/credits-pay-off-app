@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="165px" viewBox="0 0 127 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="100%" y1="49.9999117%" x2="-48.6485212%" y2="49.9999117%" id="linearGradient-1">
+            <stop stop-color="#2D47FE" offset="0%"></stop>
+            <stop stop-color="#60D0FE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="79.881294%" y1="88.1293711%" x2="14.3720086%" y2="11.7018609%" id="linearGradient-2">
+            <stop stop-color="#C0DBFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.9998707%" y1="50.0000237%" x2="-48.6485557%" y2="50.0000237%" id="linearGradient-3">
+            <stop stop-color="#2D47FE" offset="0%"></stop>
+            <stop stop-color="#60D0FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill-rule="nonzero">
+            <g id="Vector" fill="url(#linearGradient-1)">
+                <path d="M63.5004,165 C62.9858,165 62.4666,164.915 61.971,164.75 C25.3012,152.528 0.659485,118.341 0.659485,79.6843 L0.659485,24.1719 C0.659485,21.5 2.82153,19.3379 5.4934,19.3379 C23.512,19.3379 40.9547,14.0554 55.9476,4.06211 L60.8192,0.814365 C62.4431,-0.271333 64.5581,-0.271333 66.182,0.814365 L71.0536,4.06211 C86.0461,14.0558 103.489,19.3379 121.508,19.3379 C124.18,19.3379 126.342,21.5 126.342,24.1719 L126.342,79.6843 C126.342,118.341 101.7,152.528 65.0302,164.75 C64.5342,164.915 64.0148,165 63.5004,165 Z" id="Shape"></path>
+            </g>
+            <g id="Vector-1" transform="translate(19.000000, 39.000000)" fill="url(#linearGradient-2)">
+                <path d="M44.5002,87.3287 C20.5101,87.3287 0.994934,67.8135 0.994934,43.8234 C0.994934,19.8333 20.5101,0.318146 44.5002,0.318146 C68.4903,0.318146 88.0055,19.8333 88.0055,43.8234 C88.0055,67.8135 68.4903,87.3287 44.5002,87.3287 Z" id="Shape"></path>
+            </g>
+            <g id="Vector-2" transform="translate(44.000000, 66.000000)" fill="url(#linearGradient-3)">
+                <path d="M14.6662,29.1591 C13.4294,29.1591 12.1926,28.687 11.2487,27.7427 L1.58083,18.0749 C-0.307298,16.1868 -0.307298,13.1275 1.58083,11.2394 C3.46896,9.35129 6.52819,9.35129 8.41631,11.2394 L14.6666,17.4897 L30.5847,1.57158 C32.4728,-0.316545 35.532,-0.316545 37.4201,1.57158 C39.3083,3.45971 39.3083,6.51894 37.4201,8.40707 L18.0845,27.7427 C17.1396,28.687 15.9031,29.1591 14.6662,29.1591 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
